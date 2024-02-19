@@ -4,9 +4,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamvictoriaventura_/)
 
-
-![Victóri's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvictoriaventura&show_icons=true&theme=dracula)
-
 ## Tecnologias que eu uso
 
 <div style="display: inline_black"><br/>
